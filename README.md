@@ -2,7 +2,7 @@
 
 Reproduction of: *"Short-term forecasting of solar irradiance using decision
 tree-based models and non-parametric quantile regression"* (PLOS ONE, 2024).
-[Paper link](https://journals.plos.org/plosone/article?id=10.1371/journal.plos.one.0312814) ·
+[Paper link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312814) ·
 [Reference implementation studied](https://github.com/energyCUEE/probforecast)
 
 ## What this is
